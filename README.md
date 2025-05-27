@@ -50,6 +50,10 @@ Demo
 
 Prueba el formulario en vivo: [enviar-emails-js.netlify.app](https://enviar-emails-js.netlify.app/)
 
+![image](https://github.com/user-attachments/assets/43981bf8-6325-49a5-bc69-b48c1dcee986)
+
+
+
 Instalación
 
 
